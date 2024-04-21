@@ -1,4 +1,5 @@
-# CS320_SNHU
+# SNHU CS-320
+Software Testing and Automation
 
 My approach to designing software begins with collecting requirements in some form. Whether that be interviewing the client, doing market research, or asking questions after reviewing the materials for classwork, I make a step-by-step list of requirements that serve as the plan of action. They will be organized into tasks which create a part of the program or meet one of the requirements. This is the most important step - making mistakes here will result in a lot of wasted time doing something unnecessary or something that must be changed later. During the development process and afterwards, there is testing. Ongoing testing ensures that small mistakes don't result in a chain of mistakes later that need to be fixed. Final testing is done with less automation, and typically is done as a simulation of and end user trying to use the product.
 
